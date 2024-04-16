@@ -1,4 +1,4 @@
-# What I Learned in Week 3
+# What I Learned in Week 4
 
 ### 브랜치 전략 : [Git Flow](https://nvie.com/posts/a-successful-git-branching-model "Vincent Driessen's post")
 
